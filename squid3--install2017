@@ -35,7 +35,7 @@ echo -e "$cyanClaro
 Squid que configura uma nova versão do SQUID3 Para Ubuntu-Debiam
 Nao Me Responsabilizo por erro De funcionamento ou suporte @kroz44.
 $fim"
-read -p "Pressione Qualquer Tecla para Continuar..."
+read -p "Pressione Enter By Modificado AndersonSilva......"
 read -p "Digite IP Da Sua VPS: " ip
 echo -e "$cyanClaro
 Instalando SQUID3 Aguarde...$fim"
